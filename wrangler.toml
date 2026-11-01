@@ -1,5 +1,5 @@
-name = "aetheris-private-ai-agent"
-main = "worker.ts"
+name = "galaxyai"
+main = "worker.js"
 compatibility_date = "2024-09-23"
 
 # Static assets serving (Frontend React App)
