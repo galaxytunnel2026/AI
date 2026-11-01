@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris AI Creative Studio",
+  "description": "An advanced multimodal AI studio and creative workspace powered by Google Gemini, featuring text generation, image analysis and synthesis, text-to-speech voice studio, and code reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+name = "aetheris-private-ai-agent"
+main = "worker.ts"
+compatibility_date = "2024-09-23"
+
+# Static assets serving (Frontend React App)
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+
+# Environment variables to configure in Cloudflare Dashboard or via wrangler secret put
+[vars]
+OWNER_EMAIL = "owner@aetheris.local"
+OWNER_UID = "owner_uid_777"
